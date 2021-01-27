@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f2d4349b-c345-4e65-b006-1516e9d0b722" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.3 bin">
+    <include_path>
+      <path value="/usr/local/bin/php" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1nf3JAImeOweHSdWwzUY2TPuFii" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" nameIsGenerated="true" document_root="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2d4349b-c345-4e65-b006-1516e9d0b722" name="Default Changelist" comment="" />
+      <created>1611767245029</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611767245029</updated>
+      <workItem from="1611767247379" duration="889000" />
+      <workItem from="1611780262169" duration="2424000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="508" y="-878" key="#Deployment" timestamp="1611784274336">
+      <screen x="-52" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="508" y="-878" key="#Deployment/-52.-1080.1920.1080/0.0.1792.1120@-52.-1080.1920.1080" timestamp="1611784274336" />
+    <state x="44" y="-833" key="#PHP" timestamp="1611780478074">
+      <screen x="-52" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="44" y="-833" key="#PHP/-52.-1080.1920.1080/0.0.1792.1120@-52.-1080.1920.1080" timestamp="1611780478074" />
+    <state x="90" y="275" key="#PHP/0.25.1792.1095@0.25.1792.1095" timestamp="1611767949482" />
+    <state x="334" y="-877" width="1148" height="787" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611780391860">
+      <screen x="-52" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="334" y="-877" width="1148" height="787" key="#com.intellij.execution.impl.EditConfigurationsDialog/-52.-1080.1920.1080/0.0.1792.1120@-52.-1080.1920.1080" timestamp="1611780391860" />
+    <state x="360" y="231" width="1071" height="720" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1792.1095@0.25.1792.1095" timestamp="1611767433940" />
+    <state width="1878" height="305" key="GridCell.Tab.0.bottom" timestamp="1611780499801">
+      <screen x="-52" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1750" height="301" key="GridCell.Tab.0.bottom/-52.-1055.1920.1055/0.25.1792.1095@0.25.1792.1095" timestamp="1611769123067" />
+    <state width="1878" height="305" key="GridCell.Tab.0.bottom/-52.-1080.1920.1080/0.0.1792.1120@-52.-1080.1920.1080" timestamp="1611780499801" />
+    <state width="1750" height="301" key="GridCell.Tab.0.bottom/0.25.1792.1095@0.25.1792.1095" timestamp="1611767278823" />
+    <state width="1878" height="305" key="GridCell.Tab.0.center" timestamp="1611780499799">
+      <screen x="-52" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1750" height="301" key="GridCell.Tab.0.center/-52.-1055.1920.1055/0.25.1792.1095@0.25.1792.1095" timestamp="1611769123067" />
+    <state width="1878" height="305" key="GridCell.Tab.0.center/-52.-1080.1920.1080/0.0.1792.1120@-52.-1080.1920.1080" timestamp="1611780499799" />
+    <state width="1750" height="301" key="GridCell.Tab.0.center/0.25.1792.1095@0.25.1792.1095" timestamp="1611767278822" />
+    <state width="1878" height="305" key="GridCell.Tab.0.left" timestamp="1611780499798">
+      <screen x="-52" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1750" height="301" key="GridCell.Tab.0.left/-52.-1055.1920.1055/0.25.1792.1095@0.25.1792.1095" timestamp="1611769123066" />
+    <state width="1878" height="305" key="GridCell.Tab.0.left/-52.-1080.1920.1080/0.0.1792.1120@-52.-1080.1920.1080" timestamp="1611780499798" />
+    <state width="1750" height="301" key="GridCell.Tab.0.left/0.25.1792.1095@0.25.1792.1095" timestamp="1611767278821" />
+    <state width="1878" height="305" key="GridCell.Tab.0.right" timestamp="1611780499800">
+      <screen x="-52" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1750" height="301" key="GridCell.Tab.0.right/-52.-1055.1920.1055/0.25.1792.1095@0.25.1792.1095" timestamp="1611769123067" />
+    <state width="1878" height="305" key="GridCell.Tab.0.right/-52.-1080.1920.1080/0.0.1792.1120@-52.-1080.1920.1080" timestamp="1611780499800" />
+    <state width="1750" height="301" key="GridCell.Tab.0.right/0.25.1792.1095@0.25.1792.1095" timestamp="1611767278822" />
+    <state x="417" y="-904" key="SettingsEditor" timestamp="1611780375588">
+      <screen x="-52" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="417" y="-904" key="SettingsEditor/-52.-1080.1920.1080/0.0.1792.1120@-52.-1080.1920.1080" timestamp="1611780375588" />
+  </component>
+</project>
