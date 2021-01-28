@@ -56,7 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1611767245029</updated>
       <workItem from="1611767247379" duration="889000" />
-      <workItem from="1611780262169" duration="2424000" />
+      <workItem from="1611780262169" duration="4963000" />
     </task>
     <servers />
   </component>
@@ -64,10 +64,11 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="508" y="-878" key="#Deployment" timestamp="1611784274336">
-      <screen x="-52" y="-1080" width="1920" height="1080" />
+    <state x="523" y="209" width="933" height="675" key="#Deployment" timestamp="1611792217497">
+      <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="508" y="-878" key="#Deployment/-52.-1080.1920.1080/0.0.1792.1120@-52.-1080.1920.1080" timestamp="1611784274336" />
+    <state x="508" y="-878" key="#Deployment/-52.-1080.1920.1080/0.0.1792.1120@-52.-1080.1920.1080" timestamp="1611784343833" />
+    <state x="523" y="209" width="933" height="675" key="#Deployment/-52.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1611792217497" />
     <state x="44" y="-833" key="#PHP" timestamp="1611780478074">
       <screen x="-52" y="-1080" width="1920" height="1080" />
     </state>
