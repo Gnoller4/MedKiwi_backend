@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.deploySubpath": ".",
+    "appService.defaultWebAppToDeploy": "/subscriptions/95eaa470-c700-434f-a519-dce2e4efe7c1/resourceGroups/MedKiwi/providers/Microsoft.Web/sites/MedKiwiDevTwo"
+}
