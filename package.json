@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/Gnoller4/MedKiwi_backend#readme",
   "scripts": {
-    "start": "npm start"
+    "start": "node app.js"
   }
 }
